@@ -32,3 +32,13 @@ Arduino IDEの環境設定で上記URLを指定します。
 * 上記githubのページからzip形式でダウンロードします。
 * Arduino IDEのメニューから[スケッチ]-[ライブラリをインクルード]-[zip形式のライブラリをインストール]を選びます。
 * ファイル選択ダイアログが開くので、先ほどダウンロードしたzipファイルを選択します。
+
+# Neural Network Console
+- ダウンロード先<br>
+ https://nnabla.org/ja/nnc/?_fsi=UkaJuvwg
+
+# サンプル
+https://github.com/TomonobuHayakawa/Spresense-Playground/tree/master/IntegrationWithProcessing/AiCamera/NumberRecognition/viaUSBSerial/DataCollection
+
+
+#
