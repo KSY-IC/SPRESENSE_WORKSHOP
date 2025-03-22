@@ -38,7 +38,23 @@ Arduino IDEの環境設定で上記URLを指定します。
  https://nnabla.org/ja/nnc/?_fsi=UkaJuvwg
 
 # サンプル
+- Bitmapを作成するライブラリ<br>
+  https://github.com/YoshinoTaro/BmpImage_ArduinoLib
+  
+- データを取得するサンプル<br>
 https://github.com/TomonobuHayakawa/Spresense-Playground/tree/master/IntegrationWithProcessing/AiCamera/NumberRecognition/viaUSBSerial/DataCollection
 
+- サンプルの数字のデータ
+https://github.com/TE-YoshinoriOota/Spresense-LowPower-EdgeAI/blob/main/Chap07/dnnrt_test/numberRecogTest.zip
 
-#
+- 作成済みの教師データ
+  https://github.com/TE-YoshinoriOota/Spresense-LowPower-EdgeAI/blob/main/Chap04/nnc_dataset/number.zip
+
+- 作成済みのNMCサンプルプロジェクト
+  https://github.com/TomonobuHayakawa/Spresense-LowPower-EdgeAI/tree/main/Chap04/nnc_project
+
+- 数字読み込みのサンプルプロジェクト
+  https://github.com/TomonobuHayakawa/Spresense-Playground/tree/master/IntegrationWithProcessing/AiCamera/NumberRecognition/viaUSBSerial
+
+  
+
